@@ -1,5 +1,8 @@
-# Livro: MariaDB 10.0 Interativo - Gerenciamento de Banco de Dados
+# Livro: MariaDB 10.0 Interativo
+Gerenciamento de Banco de Dados
 
-Material adicional e de apoio ao livro que pode ser adquirido a partir de:
+O objetivo desta obra é ser um guia prático essencial de orientação e desenvolvimento para estudantes da área de Tecnologia da Informação (TI) que estejam iniciando o estudo de programas de gerenciamento de bancos de dados interativos, desde que já possuam conhecimento e domínio da base de conhecimento relacionada aos fundamentos de bancos de dados. Este material também pode ser utilizado por autodidatas.
 
-https://clubedeautores.com.br/livro/mariadb-interativo-gerenciamento-de-banco-de-dados
+A exposição do tema baseia-se no uso e prática do programa de gerenciamento de bancos de dados MariaDB. O estudo é apresentado de forma dinâmica e didática, sempre acompanhado de uma instrução de aplicação e, quando possível, de uma imagem que mostra o resultado obtido a partir do uso de uma determinada instrução. Procurou-se escrever um material de rápida e fácil leitura, que aborda o assunto de forma direta. Outro ponto de destaque é a coleção de exercícios de fixação definidos ao final de alguns capítulos.
+
+O leitor terá a oportunidade de aprender a criar, alterar, usar e remover bancos de dados e tabelas; consultas simples e sofisticadas; uso, remoção e atualização de registros; a técnica de utilização do arquivo morto, tema não abordado em livros sobre bancos de dados; operadores aritméticos, de comparação, lógicos e auxiliares; algumas das mais importantes funções da linguagem SQL existentes no programa MariaDB; conceitos mais sofisticados que envolvem agrupamentos, uniões, junções e visualizações de tabelas; indexações e gerenciamento de usuários e, por último, terá contato sólido, apesar de básico, com a criação e utilização de stored procedures (procedimentos armazenados), desenvolvimento de functions (funções) e triggers (gatilhos). Todos estes temas são mostrados de forma bem direta, facilitando o rápido aprendizado.
